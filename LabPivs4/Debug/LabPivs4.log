@@ -1,0 +1,28 @@
+﻿  LabPivs4.cpp
+c:\users\a4tec\source\repos\labpivs4\labpivs4\graph.h(337): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\a4tec\source\repos\labpivs4\labpivs4\graph.h(334): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\a4tec\source\repos\labpivs4\labpivs4\labpivs4.cpp(39): note: выполняется компиляция ссылки на экземпляр шаблон функции "std::string Graph<int>::arc_iterator_incident_vertex::get(void)"
+  c:\users\a4tec\source\repos\labpivs4\labpivs4\labpivs4.cpp(36): note: выполняется компиляция ссылки на экземпляр шаблон класс "Graph<int>::arc_iterator_incident_vertex"
+c:\users\a4tec\source\repos\labpivs4\labpivs4\graph.h(66): warning C4101: i: неиспользованная локальная переменная
+  c:\users\a4tec\source\repos\labpivs4\labpivs4\graph.h(54): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\a4tec\source\repos\labpivs4\labpivs4\labpivs4.cpp(20): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::addArc(T,T)"
+          with
+          [
+              T=int
+          ]
+  c:\users\a4tec\source\repos\labpivs4\labpivs4\labpivs4.cpp(15): note: выполняется компиляция ссылки на экземпляр шаблон класс "Graph<int>"
+c:\users\a4tec\source\repos\labpivs4\labpivs4\graph.h(42): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\a4tec\source\repos\labpivs4\labpivs4\graph.h(41): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\a4tec\source\repos\labpivs4\labpivs4\graph.h(60): note: выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<int>::findArc(std::vector<int,std::allocator<_Ty>>)"
+          with
+          [
+              _Ty=int
+          ]
+c:\users\a4tec\source\repos\labpivs4\labpivs4\graph.h(36): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\a4tec\source\repos\labpivs4\labpivs4\graph.h(35): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\a4tec\source\repos\labpivs4\labpivs4\graph.h(56): note: выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<int>::findNode(T)"
+          with
+          [
+              T=int
+          ]
+  LabPivs4.vcxproj -> C:\Users\a4tec\source\repos\LabPivs4\Debug\LabPivs4.exe
